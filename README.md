@@ -5,7 +5,7 @@
   
   by using this script , you are able to saw each pixel **RGB** code just by hovering your mouse on them.
   
-  **All you need to do, is replacing "IMAGE_FILE_NAME" on line 16 with your jpeg or jpg file path and then just run the script :D**
+  **All you need to do, is replacing "image.jpg" on line 16 with your jpeg or jpg file path and then just run the script :D**
   
   **If your going to use png files , just replace imagecreatefromjpeg($file_name) on line 17 with imagecreatefrompng($file_name) :D**
   
